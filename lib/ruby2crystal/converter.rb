@@ -1,3 +1,4 @@
+require 'ruby2crystal/converter/array'
 module Ruby2Crystal
   class Converter
     def initialize(abstract_syntax_tree)
