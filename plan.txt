@@ -1,0 +1,4 @@
+# Questions
+# 1. Write in Crystal or Ruby?
+#      The ruby file spec seems more robust, check the difference.
+# 2. Document main differences
